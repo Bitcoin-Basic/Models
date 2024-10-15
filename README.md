@@ -62,3 +62,24 @@
 ## 5. Limitations of the Scarcity Model
 - **Lesson**: While scarcity is a key driver of value, the S2F model does not account for external factors such as market sentiment, technological developments, or regulatory changes that can influence Bitcoin’s price. As such, it is not a definitive predictor of value.
 - **Example**: The price of Bitcoin has deviated from S2F model predictions during periods of regulatory uncertainty or market downturns, indicating that other factors also play a role in its valuation.
+# Key Lessons from *The Halving: Trends & Implications of Bitcoin's Supply Inflation Mechanism* by Kraken Intelligence
+
+## 1. Bitcoin’s Supply Mechanism: The Halving
+- **Lesson**: Bitcoin's supply is strictly limited to 21 million coins, and its growth is regulated through an event called "the halving," which reduces the block subsidy by 50% every 210,000 blocks (approximately every four years). This halving event is a critical part of Bitcoin's disinflationary monetary policy.
+- **Example**: The next halving is expected to take place at block 630,000, cutting the block reward from 12.5 bitcoins to 6.25 bitcoins, reducing the annual supply growth rate from 3.72% to 1.79%.
+
+## 2. Historical Impact of Previous Halvings
+- **Lesson**: Previous halvings have been followed by significant bull runs, where Bitcoin's price surged before and after the events. However, these bull runs were also followed by drawdowns, indicating high volatility surrounding halving events.
+- **Example**: After the first halving in 2012, Bitcoin's price increased by over 50,000%, but eventually saw an 80% drawdown by 2013. Similarly, after the second halving in 2016, Bitcoin's price peaked at nearly $20,000 before dropping 83% by 2018.
+
+## 3. Stock-to-Flow Ratio and Scarcity
+- **Lesson**: Bitcoin's scarcity is often compared to commodities like gold, using the stock-to-flow (SF) ratio to measure its supply. Bitcoin’s SF ratio is set to surpass gold’s after the fourth halving in 2024, making it an even scarcer asset.
+- **Example**: Gold has an SF ratio of around 60, while Bitcoin’s SF ratio will climb higher after future halvings, positioning it as a stronger store of value compared to gold.
+
+## 4. Impact on Miners
+- **Lesson**: The halving directly affects miners by cutting their block rewards, which reduces their revenue by about 50%. This creates a challenging environment, especially if Bitcoin’s price does not increase proportionally to offset the revenue loss.
+- **Example**: At the time of the 2020 halving, miners were expected to see their annual revenue drop from $6.1 billion to $3.1 billion, unless the price of Bitcoin increased or transaction fees compensated for the loss in block rewards.
+
+## 5. Future of Transaction Fees
+- **Lesson**: As block subsidies continue to decrease with each halving, transaction fees will need to play a larger role in compensating miners. The question remains whether transaction volumes or fees will increase sufficiently to maintain the security and profitability of the network.
+- **Example**: For miners to maintain revenue post-halving, transaction fees would need to increase by 19.7x, or daily transaction volume would need to rise significantly to offset the decline in block subsidies.
